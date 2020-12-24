@@ -68,3 +68,6 @@ typings/
 yarn-error.log
 .netlify/
 dist
+
+# Environment variables
+.env
